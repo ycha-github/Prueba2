@@ -1,0 +1,11 @@
+
+ls---> Lista los documentos y carpetas en la ruta actual.
+pwd---> Muestra el directorio actual.
+
+COMANDOS GIT
+git init             ----> Inicializa un proyecto nuevo (crea una carpeta oculta). 
+git status           ----> Muestra el estado de nuestros archivos.
+git add prueba.php   ----> Agrega el archivo al proyecto
+git commit                                                      ----> Crea un primer punto de control del código.
+git config --global user.email "yhernandeza@c4tabasco.gob.mx"    ---> Configura el email del usuario que está en uso 
+             (en dado caso de haber escrito mal el correo se puede cambiar volviendo a escribir el todo el comando, es decir sólo se reemplaza).
